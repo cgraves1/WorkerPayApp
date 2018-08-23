@@ -1,0 +1,1 @@
+Open project in QT and build/debug
